@@ -4,7 +4,7 @@ All rights reserved.
 /**
  * 
  */
-package codeThuongTruong.java;
+package snakeGame.java;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
